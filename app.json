@@ -1,0 +1,7 @@
+{
+  "name": "FirstApp",
+  "displayName": "FirstApp",
+  "expo" : {
+    "softwareKeyboardLayoutMode": "pan"
+  }
+}
